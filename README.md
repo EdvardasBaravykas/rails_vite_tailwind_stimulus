@@ -1,3 +1,8 @@
+
+This repository provides a boilerplate for Ruby on Rails applications, 
+pre-configured with Vite for modern asset bundling and Tailwind CSS for utility-first styling. 
+It aims to streamline the setup process for new Rails projects, allowing you to focus on building features rather than configuring tools.
+
 ## Vite
 
 First, we start by creating a new Rails application and opting for Tailwind as our CSS framework:
